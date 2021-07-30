@@ -9,7 +9,7 @@
 **Project Duration**: 8/1/2021 - 7/31/2024
 
 ## Overview
-![Overview](https://user-images.githubusercontent.com/5705572/127582754-87958ec6-1a35-47eb-940b-df3210385ebd.jpg)
+![Overview](https://user-images.githubusercontent.com/5705572/127583380-211a8c53-e35e-4eec-b934-81be021890ce.jpg)
 
 ## Abstract
 
