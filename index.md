@@ -49,12 +49,12 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 
 <img width="200" alt="zarija-photo" src="https://user-images.githubusercontent.com/5705572/127582343-9bfb70c1-d2b0-4a13-83e1-50a9fac0ca2f.png">
 
-**Zarija Lukic (Lawrence Berkeley National Lab)**: Role: Evaluation on Cosmological Simulations
+**Zarija Lukic (Lawrence Berkeley National Lab)**: Evaluation on Cosmological Simulations
 
 
 <img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/127582532-2f4463ac-3e78-41a7-8d24-dd373c4cd27c.jpeg">
 
-**Suren Byna (Lawrence Berkeley National Lab)**: HDF5 Integration
+**Suren Byna (Lawrence Berkeley National Lab)**: Integration with HDF5
 
 ### Students
 TBD
