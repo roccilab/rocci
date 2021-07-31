@@ -2,9 +2,9 @@
 
 **Project Title**: CSSI: Elements: ROCCI: Integrated Cyberinfrastructure for In Situ Lossy Compression Optimization Based on Post Hoc Analysis Requirements
 
-**Principle Investigators**: [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Franck Cappello](https://www.anl.gov/profile/franck-cappello), [Dingwen Tao](https://www.dingwentao.com/)
+**Principle Investigators**: [Sheng Di](https://www.mcs.anl.gov/~shdi/) (UChicago), [Franck Cappello](https://www.anl.gov/profile/franck-cappello) (UChicago), [Dingwen Tao](https://www.dingwentao.com/) (WSU)
 
-**Award Numbers**:  [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024)
+**Award Numbers/Amounts**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (WSU, $280K)
 
 **Project Duration**: 8/1/2021 - 7/31/2024
 
@@ -23,11 +23,11 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 <img width="200" alt="sheng-photo" src="https://user-images.githubusercontent.com/5705572/95699426-3cd0a100-0bf9-11eb-9e61-fcaed9698b20.jpg">
 
-**Sheng Di (University of Chicago and Argonne National Lab)**: Lead PI
+**Sheng Di (University of Chicago and Argonne National Lab)**: UChicago PI
 
 Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an IEEE senior member. He is a scientist at Large through the Consortium for Advanced Science and Engineering (CASE) at the University of Chicago. He is an institute fellow of Northwestern-Argonne Institute of Science and Engineering (NAISE). He has published 100+ refereed journal and conference papers, including TPDS, TC, TCC, TKDE, JPDC, IJHPCA, PPoPP, SC, IPDPS, HPDC, PACT, MSST, DSN, ICPP, CLUSTER, BigData, IWQoS, CCGrid, HiPC, Grid, CLOUD, UCC, EuroPar, ICPADS, Europar, etc. He is the receipient of 2018 IEEE Chicago Section Distinguished Mentoring Award and 2019 IEEE Chicago Section Distinguished Research and Development Award.
 
-**Franck Cappello (University of Chicago and Argonne National Lab)**: Site Co-PI
+**Franck Cappello (University of Chicago and Argonne National Lab)**: UChicago Co-PI
 
 <img width="200" alt="franck-photo" src="https://user-images.githubusercontent.com/5705572/127581061-a6be2a17-21e0-4798-a954-2982ee5229b2.jpeg">
 
@@ -35,7 +35,7 @@ Franck Cappello is the director of the Joint-Laboratory on Extreme Scale Computi
 
 <img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/95699439-45c17280-0bf9-11eb-8d43-38f1b65d65fc.jpg">
 
-**Dingwen Tao (Washington State University)**: Site PI
+**Dingwen Tao (Washington State University)**: WSU PI
 
 Dingwen Tao is an assistant professor in the School of Electrical Engineering & Computer Science at Washington State University. He is also adjunct professor in the Department of Computer Science at the University of Alabama. He has published in the top-tier HPC and big data conferences and journals, including SC, ICS, HPDC, PPoPP, PACT, IPDPS, Cluster, DAC, BigData, ICPP, MSST, TPDS, TC, JPDC, IJHPCA, etc. He is the receipt of the 2020 IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2020 NSF CRII Award, and 2017 UCR Dissertation Year Program Award.
 
