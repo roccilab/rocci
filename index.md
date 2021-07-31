@@ -4,7 +4,7 @@
 
 **PIs**: [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Franck Cappello](https://www.anl.gov/profile/franck-cappello) (UChicago), [Dingwen Tao](https://www.dingwentao.com/) (WSU)
 
-**Award Numbers/Amounts**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (WSU, $280K)
+**Awards**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (WSU, $280K)
 
 **Project Duration**: 8/1/2021 - 7/31/2024
 
@@ -33,7 +33,7 @@ Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an I
 
 Franck Cappello is the director of the Joint-Laboratory on Extreme Scale Computing gathering six of the leading HPC institutions in the world: ANL, NCSA, Inria, BSC, JSC, and Riken. He is a senior computer scientist at Argonne National Laboratory and an adjunct associate professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He is an expert in resilience and fault tolerance for scientific computing and data analytics. Recently he started investigating lossy compression for scientific data sets to respond to the pressing needs of scientist performing large-scale simulations and experiments. His contribution to this domain is one of the best lossy compressors for scientific data set respecting user-set error bounds. He is a member of the editorial board of the IEEE TPDS and of the ACM HPDC and IEEE CCGRID steering committees. He is a fellow of the IEEE.
 
-<img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/95699439-45c17280-0bf9-11eb-8d43-38f1b65d65fc.jpg">
+<img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/127750258-6646a6a7-ecb2-4b25-9e6a-2657bc1efbc1.jpg">
 
 **Dingwen Tao (Washington State University)**: WSU PI
 
