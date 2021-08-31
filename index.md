@@ -6,7 +6,7 @@
 
 **Awards**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (WSU, $280K)
 
-**Project Duration**: 8/1/2021 - 7/31/2024
+**Project Duration**: 9/15/2021 - 8/31/2024
 
 ## Overview
 ![Overview](https://user-images.githubusercontent.com/5705572/127583380-211a8c53-e35e-4eec-b934-81be021890ce.jpg)
