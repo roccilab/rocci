@@ -57,7 +57,10 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 **Suren Byna (Lawrence Berkeley National Lab)**: Integration with HDF5
 
 ### Students
-TBD
+
+<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/132931184-b975f396-59b9-446c-9e8f-2ccf2c04b402.jpg">
+
+**Boyuan Zhang (Washington State University)**
 
 ## Publications
 TBD
