@@ -63,7 +63,8 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 **Boyuan Zhang (Washington State University)**
 
 ## Publications
-TBD
+- [**Cluster'21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 307-319. IEEE, 2021.
+- [**Cluster'21**] Bo Fang, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, and Dingwen Tao. "Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 409-420. IEEE, 2021.
 
 ## Software
 TBD
