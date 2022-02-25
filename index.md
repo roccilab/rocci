@@ -58,9 +58,11 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 
 ### Students
 
-<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/132931184-b975f396-59b9-446c-9e8f-2ccf2c04b402.jpg">
+<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/155816422-5e30499c-b70b-4409-9e9c-b92ecf95069b.jpg">
 
-**Boyuan Zhang (Washington State University)**
+**Pei-Yau Weng (Washington State University)**
+
+**Arham Khan (University of Chicago)**
 
 ## Publications
 - [**Cluster'21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 307-319. IEEE, 2021.
