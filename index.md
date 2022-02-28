@@ -58,9 +58,11 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 
 ### Students
 
-<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/155816422-5e30499c-b70b-4409-9e9c-b92ecf95069b.jpg">
+<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077826-562dee5b-87e5-4319-802b-29e89eeff758.jpg">
 
 **Pei-Yau Weng (Washington State University)**
+
+<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077654-cb723709-8486-4eb5-b8c8-a9fe8bb34eed.jpg">
 
 **Arham Khan (University of Chicago)**
 
@@ -69,7 +71,7 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 - [**Cluster'21**] Bo Fang, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, and Dingwen Tao. "Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 409-420. IEEE, 2021.
 
 ## Software
-TBD
+- cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
 
 ## Outreach
 TBD
