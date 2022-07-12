@@ -76,14 +76,17 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 - [**TPDS '22**] Robert Underwood, Jon C Calhoun, Sheng Di, Amy Apon, and Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." *IEEE Transactions on Parallel and Distributed Systems*.
 - [**DRBSD-7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhoun, Sheng Di, and Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." In *2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7)*, pp. 1-10. IEEE, 2021. 
 - [**CLUSTER '21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In *2021 IEEE International Conference on Cluster Computing (CLUSTER)*, pp. 307-319. IEEE, 2021.
+- [**BigData '21**] Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello. "Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques." In *2021 IEEE International Conference on Big Data (Big Data)*, pp. 2986-2991. IEEE, 2021.
 
 ## Software
 - cuZ-Checker: A GPU-based ultrafast assessment system for lossy compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
 - LibPressio: A Library to abstract between different lossless and lossy compressors ([https://github.com/robertu94/libpressio](https://github.com/robertu94/libpressio))
 
 ## Outreach
+- [The 8th International Workshop on Data Analysis and Reduction for Big Scientific Data](https://drbsd.github.io/) held with 2022 ACM/IEEE SC conference.
 - [2022 NSF CSSI PI Meeting](https://cssi-pi-community.github.io/2022-meeting/) for "Towards a Sustainable Data and Software Cyberinfrastructure" at Alexandria, VA. 
 ![CSSI-ROCCI-Poster-2022](https://user-images.githubusercontent.com/5705572/178409498-e34c78e0-355f-416c-941b-7f3fa8a7e1f8.jpg)
+- [The 2nd International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr21/) held with 2021 IEEE Big Data conference.
 
 ## Acknowledgement & Disclaimer
 
