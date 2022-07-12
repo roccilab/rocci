@@ -25,30 +25,30 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 **Sheng Di (University of Chicago and Argonne National Lab)**: UChicago PI
 
-Sheng Di is a computer scientist at Argonne National Laboratory, USA. He is an IEEE senior member. He is a scientist at Large through the Consortium for Advanced Science and Engineering (CASE) at the University of Chicago. He is an institute fellow of Northwestern-Argonne Institute of Science and Engineering (NAISE). He has published 100+ refereed journal and conference papers, including TPDS, TC, TCC, TKDE, JPDC, IJHPCA, PPoPP, SC, IPDPS, HPDC, PACT, MSST, DSN, ICPP, CLUSTER, BigData, IWQoS, CCGrid, HiPC, Grid, CLOUD, UCC, EuroPar, ICPADS, Europar, etc. He is the receipient of 2018 IEEE Chicago Section Distinguished Mentoring Award and 2019 IEEE Chicago Section Distinguished Research and Development Award.
+[Sheng Di](https://www.anl.gov/profile/sheng-di) is a computer scientist at Argonne National Laboratory, USA. He is an IEEE senior member. He is a scientist at Large through the Consortium for Advanced Science and Engineering (CASE) at the University of Chicago. He is an institute fellow of Northwestern-Argonne Institute of Science and Engineering (NAISE). He has published 100+ refereed journal and conference papers, including TPDS, TC, TCC, TKDE, JPDC, IJHPCA, PPoPP, SC, IPDPS, HPDC, PACT, MSST, DSN, ICPP, CLUSTER, BigData, IWQoS, CCGrid, HiPC, Grid, CLOUD, UCC, EuroPar, ICPADS, Europar, etc. He is the receipient of 2018 IEEE Chicago Section Distinguished Mentoring Award and 2019 IEEE Chicago Section Distinguished Research and Development Award.
 
 **Franck Cappello (University of Chicago and Argonne National Lab)**: UChicago Co-PI
 
 <img width="200" alt="franck-photo" src="https://user-images.githubusercontent.com/5705572/127581061-a6be2a17-21e0-4798-a954-2982ee5229b2.jpeg">
 
-Franck Cappello is the director of the Joint-Laboratory on Extreme Scale Computing gathering six of the leading HPC institutions in the world: ANL, NCSA, Inria, BSC, JSC, and Riken. He is a senior computer scientist at Argonne National Laboratory and an adjunct associate professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He is an expert in resilience and fault tolerance for scientific computing and data analytics. Recently he started investigating lossy compression for scientific data sets to respond to the pressing needs of scientist performing large-scale simulations and experiments. His contribution to this domain is one of the best lossy compressors for scientific data set respecting user-set error bounds. He is a member of the editorial board of the IEEE TPDS and of the ACM HPDC and IEEE CCGRID steering committees. He is a fellow of the IEEE.
+[Franck Cappello](https://www.anl.gov/profile/franck-cappello) is the director of the Joint-Laboratory on Extreme Scale Computing gathering six of the leading HPC institutions in the world: ANL, NCSA, Inria, BSC, JSC, and Riken. He is a senior computer scientist at Argonne National Laboratory and an adjunct associate professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He is an expert in resilience and fault tolerance for scientific computing and data analytics. Recently he started investigating lossy compression for scientific data sets to respond to the pressing needs of scientist performing large-scale simulations and experiments. His contribution to this domain is one of the best lossy compressors for scientific data set respecting user-set error bounds. He is a member of the editorial board of the IEEE TPDS and of the ACM HPDC and IEEE CCGRID steering committees. He is a fellow of the IEEE.
 
 <img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/127750258-6646a6a7-ecb2-4b25-9e6a-2657bc1efbc1.jpg">
 
 **Dingwen Tao (Washington State University)**: WSU PI
 
-Dingwen Tao is an assistant professor in the School of Electrical Engineering & Computer Science at Washington State University. He is also adjunct professor in the Department of Computer Science at the University of Alabama. He has published in the top-tier HPC and big data conferences and journals, including SC, ICS, HPDC, PPoPP, PACT, IPDPS, Cluster, DAC, BigData, ICPP, MSST, TPDS, TC, JPDC, IJHPCA, etc. He is the receipt of the 2020 IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High Performance Computing, 2020 NSF CRII Award, and 2017 UCR Dissertation Year Program Award.
+[Dingwen Tao](https://luddy.indiana.edu/contact/profile/index.html?Dingwen_Tao) is an associate professor in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He has published in the top-tier HPC and big data conferences and journals, including SC, ICS, HPDC, PPoPP, PACT, IPDPS, CLUSTER, DAC, BigData, ICPP, MSST, TPDS, TC, JPDC, IJHPCA, etc. He is the recipient of the R&D100 Awards Winner (2021), IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High Performance Computing (2020),  NSF CISE Research Initiation Initiative (CRII) Award (2020), IEEE CLUSTER Best Paper Award (2018), and UCR Dissertation Year Program (DYP) Award (2017).
 
 
 ### Collaborators
 
 <img width="200" alt="robert-photo" src="https://user-images.githubusercontent.com/5705572/178408357-b993df84-0109-4ab6-ab8d-b4200737f192.jpeg">
 
-**Robert Underwood (Argonne National Lab)**: Development of Compressor Adapter LibPressio+
+**Robert Underwood (Argonne National Lab)**: Development of Compressor Adapter
 
 <img width="200" alt="robert-photo" src="https://user-images.githubusercontent.com/5705572/178408803-aab65eec-e0bd-42b1-80f1-c9923d6044ae.jpeg">
 
-**Xiaodong Yu (Argonne National Lab)**: Development of Compressor Assessment Engine Z-checker+
+**Xiaodong Yu (Argonne National Lab)**: Development of Compressor Assessment Engine
 
 <img width="200" alt="junjing-photo" src="https://user-images.githubusercontent.com/5705572/127582392-7a199ab1-166e-4ec8-8246-6901e519d30b.jpeg">
 
@@ -64,19 +64,20 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 
 ### Students
 
-<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077826-562dee5b-87e5-4319-802b-29e89eeff758.jpg">
-
-**Pei-Yau Weng (Washington State University)**
-
 <img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077654-cb723709-8486-4eb5-b8c8-a9fe8bb34eed.jpg">
 
 **Arham Khan (University of Chicago)**
 
+<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077826-562dee5b-87e5-4319-802b-29e89eeff758.jpg">
+
+**Pei-Yau Weng (Washington State University)**
+
 ## Publications
-- [**TPDS '22**] Robert Underwood, Jon C Calhoun, Sheng Di, Amy Apon, and Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." *IEEE Transactions on Parallel and Distributed Systems*.
-- [**DRBSD-7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhoun, Sheng Di, and Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." In *2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7)*, pp. 1-10. IEEE, 2021. 
-- [**CLUSTER '21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In *2021 IEEE International Conference on Cluster Computing (CLUSTER)*, pp. 307-319. IEEE, 2021.
-- [**BigData '21**] Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello. "Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques." In *2021 IEEE International Conference on Big Data (Big Data)*, pp. 2986-2991. IEEE, 2021.
+- [**TPDS '22**] Robert Underwood, Jon C Calhoun, Sheng Di, Amy Apon, and Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." *IEEE Transactions on Parallel and Distributed Systems*. https://doi.org/10.1109/TPDS.2022.3154096
+- [**DRBSD-7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhoun, Sheng Di, and Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." In *2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7)*, pp. 1-10. IEEE, 2021. https://doi.org/10.1109/DRBSD754563.2021.00005
+- [**CLUSTER '21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In *2021 IEEE International Conference on Cluster Computing (CLUSTER)*, pp. 307-319. IEEE, 2021. https://doi.org/10.1109/Cluster48925.2021.00065
+- [**HiPC '21**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Chen Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. Optimizing Multi-Range based Error-Bounded Lossy Compression for Scientific Datasets. In *2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC)*, pp. 394-399. IEEE, 2021. https://doi.org/10.1109/HiPC53243.2021.00036
+- [**BigData '21**] Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello. "Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques." In *2021 IEEE International Conference on Big Data (Big Data)*, pp. 2986-2991. IEEE, 2021. https://doi.org/10.1109/BigData52589.2021.9671954
 
 ## Software
 - cuZ-Checker: A GPU-based ultrafast assessment system for lossy compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
