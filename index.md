@@ -42,15 +42,21 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 
 ### Collaborators
 
+<img width="200" alt="robert-photo" src="https://user-images.githubusercontent.com/5705572/178408357-b993df84-0109-4ab6-ab8d-b4200737f192.jpeg">
+
+**Robert Underwood (Argonne National Lab)**: Development of Compressor Adapter LibPressio+
+
+<img width="200" alt="robert-photo" src="https://user-images.githubusercontent.com/5705572/178408803-aab65eec-e0bd-42b1-80f1-c9923d6044ae.jpeg">
+
+**Xiaodong Yu (Argonne National Lab)**: Development of Compressor Assessment Engine Z-checker+
+
 <img width="200" alt="junjing-photo" src="https://user-images.githubusercontent.com/5705572/127582392-7a199ab1-166e-4ec8-8246-6901e519d30b.jpeg">
 
 **Junjing Deng (Argonne National Lab)**: Evaluation on Synchrotron Coherent X-ray Experiments
 
-
 <img width="200" alt="zarija-photo" src="https://user-images.githubusercontent.com/5705572/127582343-9bfb70c1-d2b0-4a13-83e1-50a9fac0ca2f.png">
 
 **Zarija Lukic (Lawrence Berkeley National Lab)**: Evaluation on Cosmological Simulations
-
 
 <img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/127582532-2f4463ac-3e78-41a7-8d24-dd373c4cd27c.jpeg">
 
@@ -67,14 +73,17 @@ Dingwen Tao is an assistant professor in the School of Electrical Engineering & 
 **Arham Khan (University of Chicago)**
 
 ## Publications
-- [**Cluster'21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 307-319. IEEE, 2021.
-- [**Cluster'21**] Bo Fang, Daoce Wang, Sian Jin, Quincey Koziol, Zhao Zhang, Qiang Guan, Suren Byna, Sriram Krishnamoorthy, and Dingwen Tao. "Characterizing Impacts of Storage Faults on HPC Applications: A Methodology and Insights." In 2021 IEEE International Conference on Cluster Computing (CLUSTER), pp. 409-420. IEEE, 2021.
+- [**TPDS '22**] Robert Underwood, Jon C Calhoun, Sheng Di, Amy Apon, and Franck Cappello. "OptZConfig: Efficient Parallel Optimization of Lossy Compression Configuration." *IEEE Transactions on Parallel and Distributed Systems*.
+- [**DRBSD-7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhoun, Sheng Di, and Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." In *2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7)*, pp. 1-10. IEEE, 2021. 
+- [**CLUSTER '21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In *2021 IEEE International Conference on Cluster Computing (CLUSTER)*, pp. 307-319. IEEE, 2021.
 
 ## Software
-- cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
+- cuZ-Checker: A GPU-based ultrafast assessment system for lossy compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
+- LibPressio: A Library to abstract between different lossless and lossy compressors ([https://github.com/robertu94/libpressio](https://github.com/robertu94/libpressio))
 
 ## Outreach
-TBD
+- [2022 NSF CSSI PI Meeting](https://cssi-pi-community.github.io/2022-meeting/) for "Towards a Sustainable Data and Software Cyberinfrastructure" at Alexandria, VA. 
+![CSSI-ROCCI-Poster-2022](https://user-images.githubusercontent.com/5705572/178409498-e34c78e0-355f-416c-941b-7f3fa8a7e1f8.jpg)
 
 ## Acknowledgement & Disclaimer
 
