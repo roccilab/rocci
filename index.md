@@ -85,9 +85,13 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 ## Outreach
 - [The 8th International Workshop on Data Analysis and Reduction for Big Scientific Data](https://drbsd.github.io/) held with 2022 ACM/IEEE SC conference.
+![DRBSD-8](https://user-images.githubusercontent.com/5705572/178805244-ca212f02-ec0f-4ba6-a74e-42455a20ff2e.png)
+
 - [2022 NSF CSSI PI Meeting](https://cssi-pi-community.github.io/2022-meeting/) for "Towards a Sustainable Data and Software Cyberinfrastructure" at Alexandria, VA. 
 ![CSSI-ROCCI-Poster-2022](https://user-images.githubusercontent.com/5705572/178409498-e34c78e0-355f-416c-941b-7f3fa8a7e1f8.jpg)
+
 - [The 2nd International Workshop on Big Data Reduction](https://iwbdr.github.io/iwbdr21/) held with 2021 IEEE Big Data conference.
+![IWBDR-21](https://user-images.githubusercontent.com/5705572/178805606-164c6d0e-5f5e-4b2b-a3e7-97db833c6d94.png)
 
 ## Acknowledgement & Disclaimer
 
