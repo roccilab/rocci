@@ -35,7 +35,7 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 <img width="200" alt="dingwen-photo" src="https://user-images.githubusercontent.com/5705572/127750258-6646a6a7-ecb2-4b25-9e6a-2657bc1efbc1.jpg">
 
-**Dingwen Tao (Washington State University)**: WSU PI
+**Dingwen Tao (Indiana University)**: WSU PI
 
 [Dingwen Tao](https://luddy.indiana.edu/contact/profile/index.html?Dingwen_Tao) is an associate professor in the Luddy School of Informatics, Computing, and Engineering at Indiana University Bloomington. He has published in the top-tier HPC and big data conferences and journals, including SC, ICS, HPDC, PPoPP, PACT, IPDPS, CLUSTER, DAC, BigData, ICPP, MSST, TPDS, TC, JPDC, IJHPCA, etc. He is the recipient of the R&D100 Awards Winner (2021), IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High Performance Computing (2020),  NSF CISE Research Initiation Initiative (CRII) Award (2020), IEEE CLUSTER Best Paper Award (2018), and UCR Dissertation Year Program (DYP) Award (2017).
 
