@@ -2,9 +2,9 @@
 
 **Project Title**: CSSI: Elements: ROCCI: Integrated Cyberinfrastructure for In Situ Lossy Compression Optimization Based on Post Hoc Analysis Requirements
 
-**PIs**: [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Franck Cappello](https://www.anl.gov/profile/franck-cappello) (UChicago), [Dingwen Tao](https://www.dingwentao.com/) (WSU)
+**PIs**: [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Franck Cappello](https://www.anl.gov/profile/franck-cappello) (UChicago), [Dingwen Tao](https://www.dingwentao.com/) (IU)
 
-**Awards**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2104024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (WSU, $280K)
+**Awards**: [2104023](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104023) (UChicago, $320K), [2247080](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104024) (IU, $280K)
 
 **Project Duration**: 9/15/2021 - 8/31/2024
 
@@ -46,7 +46,7 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 **Robert Underwood (Argonne National Lab)**: Development of Compressor Adapter
 
-<img width="200" alt="robert-photo" src="https://user-images.githubusercontent.com/5705572/178408803-aab65eec-e0bd-42b1-80f1-c9923d6044ae.jpeg">
+<img width="200" alt="xiaodong-photo" src="https://user-images.githubusercontent.com/5705572/178408803-aab65eec-e0bd-42b1-80f1-c9923d6044ae.jpeg">
 
 **Xiaodong Yu (Argonne National Lab)**: Development of Compressor Assessment Engine
 
@@ -64,11 +64,11 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 ### Students
 
-<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077654-cb723709-8486-4eb5-b8c8-a9fe8bb34eed.jpg">
+<img width="200" alt="arham-photo" src="https://user-images.githubusercontent.com/5705572/156077654-cb723709-8486-4eb5-b8c8-a9fe8bb34eed.jpg">
 
 **Arham Khan (University of Chicago)**
 
-<img width="200" alt="suren-photo" src="https://user-images.githubusercontent.com/5705572/156077826-562dee5b-87e5-4319-802b-29e89eeff758.jpg">
+<img width="200" alt="peiyau-photo" src="https://user-images.githubusercontent.com/5705572/156077826-562dee5b-87e5-4319-802b-29e89eeff758.jpg">
 
 **Pei-Yau Weng (Washington State University)**
 
@@ -77,7 +77,7 @@ The overarching goal of this project is to offer a complete series of automatic 
 - [**DRBSD-7**] Robert Underwood, Victoriana Malvoso, Jon C. Calhoun, Sheng Di, and Franck Cappello. "Productive and Performant Generic Lossy Data Compression with LibPressio." In *2021 7th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD-7)*, pp. 1-10. IEEE, 2021. [https://doi.org/10.1109/DRBSD754563.2021.00005](https://doi.org/10.1109/DRBSD754563.2021.00005)
 - [**CLUSTER '21**] Xiaodong Yu, Sheng Di, Ali Murat Gok, Dingwen Tao, and Franck Cappello. "cuZ-Checker: A GPU-Based Ultra-Fast Assessment System for Lossy Compressions." In *2021 IEEE International Conference on Cluster Computing (CLUSTER)*, pp. 307-319. IEEE, 2021. [https://doi.org/10.1109/Cluster48925.2021.00065](https://doi.org/10.1109/Cluster48925.2021.00065)
 - [**HiPC '21**] Yuanjian Liu, Sheng Di, Kai Zhao, Sian Jin, Chen Wang, Kyle Chard, Dingwen Tao, Ian Foster, and Franck Cappello. Optimizing Multi-Range based Error-Bounded Lossy Compression for Scientific Datasets. In *2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC)*, pp. 394-399. IEEE, 2021. [https://doi.org/10.1109/HiPC53243.2021.00036](https://doi.org/10.1109/HiPC53243.2021.00036)
-- [**BigData '21**] Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello. "Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques." In *2021 IEEE International Conference on Big Data (Big Data)*, pp. 2986-2991. IEEE, 2021. [https://doi.org/10.1109/BigData52589.2021.9671954](https://doi.org/10.1109/BigData52589.2021.9671954])
+- [**BigData '21**] Jinyang Liu, Sihuan Li, Sheng Di, Xin Liang, Kai Zhao, Dingwen Tao, Zizhong Chen, and Franck Cappello. "Improving Lossy Compression for SZ by Exploring the Best-Fit Lossless Compression Techniques." In *2021 IEEE International Conference on Big Data (Big Data)*, pp. 2986-2991. IEEE, 2021. [https://doi.org/10.1109/BigData52589.2021.9671954](https://doi.org/10.1109/BigData52589.2021.9671954)
 
 ## Software
 - cuZ-Checker: A GPU-based ultrafast assessment system for lossy compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
@@ -95,4 +95,4 @@ The overarching goal of this project is to offer a complete series of automatic 
 
 ## Acknowledgement & Disclaimer
 
-This material is based upon work supported by the National Science Foundation under Grants No. 2104023 and 2104024. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under Grants No. 2104023 and 2247080. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
