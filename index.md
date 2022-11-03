@@ -83,7 +83,7 @@ The overarching goal of this project is to offer a complete series of automatic 
 - cuZ-Checker: A GPU-based ultrafast assessment system for lossy compressions ([https://github.com/CODARcode/cuZ-checker](https://github.com/CODARcode/cuZ-checker))
 - LibPressio: A Library to abstract between different lossless and lossy compressors ([https://github.com/robertu94/libpressio](https://github.com/robertu94/libpressio))
 
-## Outreach
+## Outreach Activities
 - [The 8th International Workshop on Data Analysis and Reduction for Big Scientific Data](https://drbsd.github.io/) held with 2022 ACM/IEEE SC conference.
 ![DRBSD-8](https://user-images.githubusercontent.com/5705572/178805244-ca212f02-ec0f-4ba6-a74e-42455a20ff2e.png)
 
